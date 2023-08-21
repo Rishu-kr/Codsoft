@@ -37,7 +37,7 @@ int main() {
     int allWords = countWords(filename); //call the function word count
     //to count all words in file
     if (allWords != -1) {
-        cout << "Total number of words in the file: " << allWords << endl;
+        cout << "Count of all the words in the file: " << allWords << endl;
         cout<<endl;
     }
 
